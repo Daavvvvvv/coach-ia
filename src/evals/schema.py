@@ -1,5 +1,7 @@
 """Schemas Pydantic para la eval suite."""
-from pydantic import BaseModel, Field
+import json
+
+from pydantic import BaseModel, Field, field_validator
 
 
 class CoachPlan(BaseModel):
@@ -45,3 +47,15 @@ class JudgeResult(BaseModel):
     faithfulness: JudgeScore = Field(
         description="¿Las afirmaciones del plan están respaldadas por los datos disponibles? ¿O inventa números/eventos?",
     )
+
+    @field_validator("tactical_coherence", "specificity", "faithfulness", mode="before")
+    @classmethod
+    def _parse_string_score(cls, v):
+        # Sonnet a veces serializa el JudgeScore como string JSON en vez de objeto,
+        # ocasionalmente con un '}' extra al final. Lo toleramos aquí.
+        if isinstance(v, str):
+            s = v.strip()
+            while s.endswith("}}"):
+                s = s[:-1]
+            return json.loads(s)
+        return v
