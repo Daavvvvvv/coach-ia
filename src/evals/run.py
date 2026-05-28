@@ -91,6 +91,11 @@ def main(smoke: bool) -> None:
     else:
         print(f"Modo full: {len(sample)} partidos")
 
+    stamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    suffix = "smoke" if smoke else "full"
+    out_path = RESULTS_DIR / f"results_{suffix}_{stamp}.csv"
+    print(f"Checkpoint en: {out_path}")
+
     graph = build_graph()
     rows = []
     t0 = time.time()
@@ -98,13 +103,10 @@ def main(smoke: bool) -> None:
         print(f"[{i + 1}/{len(sample)}] {row['tier']:6s} | {row['our_team']} vs {row['opponent']}  ({row['date']})")
         t_start = time.time()
         rows.append(evaluate_one(graph, row))
+        pd.DataFrame(rows).to_csv(out_path, index=False)
         print(f"          ↳ {time.time() - t_start:.1f}s")
 
     df = pd.DataFrame(rows)
-    stamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    suffix = "smoke" if smoke else "full"
-    out_path = RESULTS_DIR / f"results_{suffix}_{stamp}.csv"
-    df.to_csv(out_path, index=False)
     print(f"\nGuardado: {out_path}")
     print(f"Total: {time.time() - t0:.1f}s\n")
 
