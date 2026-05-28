@@ -39,3 +39,6 @@ evals/results/*.csv
 .vscode/
 .idea/
 *.swp
+
+# Artefactos de soccerdata (locks de Selenium / driver fixing)
+downloaded_files/
