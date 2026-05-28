@@ -1,0 +1,381 @@
+league,season,game,date,home_team,away_team,game_id,league_id
+ESP-La Liga,2526,2025-08-15 Girona-Rayo Vallecano,2025-08-15 17:00:00+00:00,Girona,Rayo Vallecano,748152,esp.1
+ESP-La Liga,2526,2025-08-15 Villarreal-Real Oviedo,2025-08-15 19:30:00+00:00,Villarreal,Real Oviedo,748151,esp.1
+ESP-La Liga,2526,2025-08-16 Alavés-Levante,2025-08-16 19:30:00+00:00,Alavés,Levante,748150,esp.1
+ESP-La Liga,2526,2025-08-16 Mallorca-Barcelona,2025-08-16 17:30:00+00:00,Mallorca,Barcelona,748153,esp.1
+ESP-La Liga,2526,2025-08-16 Valencia-Real Sociedad,2025-08-16 19:30:00+00:00,Valencia,Real Sociedad,748144,esp.1
+ESP-La Liga,2526,2025-08-17 Athletic Club-Sevilla,2025-08-17 17:30:00+00:00,Athletic Club,Sevilla,748149,esp.1
+ESP-La Liga,2526,2025-08-17 Celta Vigo-Getafe,2025-08-17 15:00:00+00:00,Celta Vigo,Getafe,748148,esp.1
+ESP-La Liga,2526,2025-08-17 Espanyol-Atlético Madrid,2025-08-17 19:30:00+00:00,Espanyol,Atlético Madrid,748146,esp.1
+ESP-La Liga,2526,2025-08-18 Elche-Real Betis,2025-08-18 19:00:00+00:00,Elche,Real Betis,748147,esp.1
+ESP-La Liga,2526,2025-08-19 Real Madrid-Osasuna,2025-08-19 19:00:00+00:00,Real Madrid,Osasuna,748145,esp.1
+ESP-La Liga,2526,2025-08-22 Real Betis-Alavés,2025-08-22 19:30:00+00:00,Real Betis,Alavés,748158,esp.1
+ESP-La Liga,2526,2025-08-23 Atlético Madrid-Elche,2025-08-23 17:30:00+00:00,Atlético Madrid,Elche,748161,esp.1
+ESP-La Liga,2526,2025-08-23 Levante-Barcelona,2025-08-23 19:30:00+00:00,Levante,Barcelona,748162,esp.1
+ESP-La Liga,2526,2025-08-23 Mallorca-Celta Vigo,2025-08-23 15:00:00+00:00,Mallorca,Celta Vigo,748154,esp.1
+ESP-La Liga,2526,2025-08-24 Osasuna-Valencia,2025-08-24 15:00:00+00:00,Osasuna,Valencia,748159,esp.1
+ESP-La Liga,2526,2025-08-24 Real Oviedo-Real Madrid,2025-08-24 19:30:00+00:00,Real Oviedo,Real Madrid,748155,esp.1
+ESP-La Liga,2526,2025-08-24 Real Sociedad-Espanyol,2025-08-24 17:30:00+00:00,Real Sociedad,Espanyol,748156,esp.1
+ESP-La Liga,2526,2025-08-24 Villarreal-Girona,2025-08-24 17:30:00+00:00,Villarreal,Girona,748163,esp.1
+ESP-La Liga,2526,2025-08-25 Athletic Club-Rayo Vallecano,2025-08-25 17:30:00+00:00,Athletic Club,Rayo Vallecano,748160,esp.1
+ESP-La Liga,2526,2025-08-25 Sevilla-Getafe,2025-08-25 19:30:00+00:00,Sevilla,Getafe,748157,esp.1
+ESP-La Liga,2526,2025-08-27 Celta Vigo-Real Betis,2025-08-27 19:00:00+00:00,Celta Vigo,Real Betis,748198,esp.1
+ESP-La Liga,2526,2025-08-29 Elche-Levante,2025-08-29 17:30:00+00:00,Elche,Levante,748170,esp.1
+ESP-La Liga,2526,2025-08-29 Valencia-Getafe,2025-08-29 19:30:00+00:00,Valencia,Getafe,748168,esp.1
+ESP-La Liga,2526,2025-08-30 Alavés-Atlético Madrid,2025-08-30 15:00:00+00:00,Alavés,Atlético Madrid,748172,esp.1
+ESP-La Liga,2526,2025-08-30 Girona-Sevilla,2025-08-30 17:30:00+00:00,Girona,Sevilla,748164,esp.1
+ESP-La Liga,2526,2025-08-30 Real Madrid-Mallorca,2025-08-30 19:30:00+00:00,Real Madrid,Mallorca,748167,esp.1
+ESP-La Liga,2526,2025-08-30 Real Oviedo-Real Sociedad,2025-08-30 17:00:00+00:00,Real Oviedo,Real Sociedad,748173,esp.1
+ESP-La Liga,2526,2025-08-31 Celta Vigo-Villarreal,2025-08-31 15:00:00+00:00,Celta Vigo,Villarreal,748171,esp.1
+ESP-La Liga,2526,2025-08-31 Espanyol-Osasuna,2025-08-31 17:30:00+00:00,Espanyol,Osasuna,748169,esp.1
+ESP-La Liga,2526,2025-08-31 Rayo Vallecano-Barcelona,2025-08-31 19:30:00+00:00,Rayo Vallecano,Barcelona,748165,esp.1
+ESP-La Liga,2526,2025-08-31 Real Betis-Athletic Club,2025-08-31 17:00:00+00:00,Real Betis,Athletic Club,748166,esp.1
+ESP-La Liga,2526,2025-09-12 Sevilla-Elche,2025-09-12 19:00:00+00:00,Sevilla,Elche,748183,esp.1
+ESP-La Liga,2526,2025-09-13 Athletic Club-Alavés,2025-09-13 16:30:00+00:00,Athletic Club,Alavés,748182,esp.1
+ESP-La Liga,2526,2025-09-13 Atlético Madrid-Villarreal,2025-09-13 19:00:00+00:00,Atlético Madrid,Villarreal,748181,esp.1
+ESP-La Liga,2526,2025-09-13 Getafe-Real Oviedo,2025-09-13 12:00:00+00:00,Getafe,Real Oviedo,748174,esp.1
+ESP-La Liga,2526,2025-09-13 Real Sociedad-Real Madrid,2025-09-13 14:15:00+00:00,Real Sociedad,Real Madrid,748177,esp.1
+ESP-La Liga,2526,2025-09-14 Barcelona-Valencia,2025-09-14 19:00:00+00:00,Barcelona,Valencia,748180,esp.1
+ESP-La Liga,2526,2025-09-14 Celta Vigo-Girona,2025-09-14 12:00:00+00:00,Celta Vigo,Girona,748179,esp.1
+ESP-La Liga,2526,2025-09-14 Levante-Real Betis,2025-09-14 14:15:00+00:00,Levante,Real Betis,748175,esp.1
+ESP-La Liga,2526,2025-09-14 Osasuna-Rayo Vallecano,2025-09-14 16:30:00+00:00,Osasuna,Rayo Vallecano,748176,esp.1
+ESP-La Liga,2526,2025-09-15 Espanyol-Mallorca,2025-09-15 19:00:00+00:00,Espanyol,Mallorca,748178,esp.1
+ESP-La Liga,2526,2025-09-19 Real Betis-Real Sociedad,2025-09-19 19:00:00+00:00,Real Betis,Real Sociedad,748185,esp.1
+ESP-La Liga,2526,2025-09-20 Alavés-Sevilla,2025-09-20 16:30:00+00:00,Alavés,Sevilla,748190,esp.1
+ESP-La Liga,2526,2025-09-20 Girona-Levante,2025-09-20 12:00:00+00:00,Girona,Levante,748193,esp.1
+ESP-La Liga,2526,2025-09-20 Real Madrid-Espanyol,2025-09-20 14:15:00+00:00,Real Madrid,Espanyol,748186,esp.1
+ESP-La Liga,2526,2025-09-20 Valencia-Athletic Club,2025-09-20 19:00:00+00:00,Valencia,Athletic Club,748187,esp.1
+ESP-La Liga,2526,2025-09-20 Villarreal-Osasuna,2025-09-20 16:30:00+00:00,Villarreal,Osasuna,748189,esp.1
+ESP-La Liga,2526,2025-09-21 Barcelona-Getafe,2025-09-21 19:00:00+00:00,Barcelona,Getafe,748191,esp.1
+ESP-La Liga,2526,2025-09-21 Elche-Real Oviedo,2025-09-21 16:30:00+00:00,Elche,Real Oviedo,748192,esp.1
+ESP-La Liga,2526,2025-09-21 Mallorca-Atlético Madrid,2025-09-21 14:15:00+00:00,Mallorca,Atlético Madrid,748188,esp.1
+ESP-La Liga,2526,2025-09-21 Rayo Vallecano-Celta Vigo,2025-09-21 12:00:00+00:00,Rayo Vallecano,Celta Vigo,748184,esp.1
+ESP-La Liga,2526,2025-09-23 Athletic Club-Girona,2025-09-23 17:00:00+00:00,Athletic Club,Girona,748194,esp.1
+ESP-La Liga,2526,2025-09-23 Espanyol-Valencia,2025-09-23 17:00:00+00:00,Espanyol,Valencia,748203,esp.1
+ESP-La Liga,2526,2025-09-23 Levante-Real Madrid,2025-09-23 19:30:00+00:00,Levante,Real Madrid,748200,esp.1
+ESP-La Liga,2526,2025-09-23 Sevilla-Villarreal,2025-09-23 19:30:00+00:00,Sevilla,Villarreal,748196,esp.1
+ESP-La Liga,2526,2025-09-24 Atlético Madrid-Rayo Vallecano,2025-09-24 19:30:00+00:00,Atlético Madrid,Rayo Vallecano,748195,esp.1
+ESP-La Liga,2526,2025-09-24 Getafe-Alavés,2025-09-24 17:00:00+00:00,Getafe,Alavés,748199,esp.1
+ESP-La Liga,2526,2025-09-24 Real Sociedad-Mallorca,2025-09-24 19:30:00+00:00,Real Sociedad,Mallorca,748197,esp.1
+ESP-La Liga,2526,2025-09-25 Osasuna-Elche,2025-09-25 17:30:00+00:00,Osasuna,Elche,748201,esp.1
+ESP-La Liga,2526,2025-09-25 Real Oviedo-Barcelona,2025-09-25 19:30:00+00:00,Real Oviedo,Barcelona,748202,esp.1
+ESP-La Liga,2526,2025-09-26 Girona-Espanyol,2025-09-26 19:00:00+00:00,Girona,Espanyol,748205,esp.1
+ESP-La Liga,2526,2025-09-27 Atlético Madrid-Real Madrid,2025-09-27 14:15:00+00:00,Atlético Madrid,Real Madrid,748210,esp.1
+ESP-La Liga,2526,2025-09-27 Getafe-Levante,2025-09-27 12:00:00+00:00,Getafe,Levante,748206,esp.1
+ESP-La Liga,2526,2025-09-27 Mallorca-Alavés,2025-09-27 16:30:00+00:00,Mallorca,Alavés,748209,esp.1
+ESP-La Liga,2526,2025-09-27 Villarreal-Athletic Club,2025-09-27 19:00:00+00:00,Villarreal,Athletic Club,748204,esp.1
+ESP-La Liga,2526,2025-09-28 Barcelona-Real Sociedad,2025-09-28 16:30:00+00:00,Barcelona,Real Sociedad,748208,esp.1
+ESP-La Liga,2526,2025-09-28 Elche-Celta Vigo,2025-09-28 14:15:00+00:00,Elche,Celta Vigo,748207,esp.1
+ESP-La Liga,2526,2025-09-28 Rayo Vallecano-Sevilla,2025-09-28 12:00:00+00:00,Rayo Vallecano,Sevilla,748213,esp.1
+ESP-La Liga,2526,2025-09-28 Real Betis-Osasuna,2025-09-28 19:00:00+00:00,Real Betis,Osasuna,748212,esp.1
+ESP-La Liga,2526,2025-09-30 Valencia-Real Oviedo,2025-09-30 18:00:00+00:00,Valencia,Real Oviedo,748211,esp.1
+ESP-La Liga,2526,2025-10-03 Osasuna-Getafe,2025-10-03 19:00:00+00:00,Osasuna,Getafe,748223,esp.1
+ESP-La Liga,2526,2025-10-04 Athletic Club-Mallorca,2025-10-04 16:30:00+00:00,Athletic Club,Mallorca,748222,esp.1
+ESP-La Liga,2526,2025-10-04 Girona-Valencia,2025-10-04 14:15:00+00:00,Girona,Valencia,748219,esp.1
+ESP-La Liga,2526,2025-10-04 Real Madrid-Villarreal,2025-10-04 19:00:00+00:00,Real Madrid,Villarreal,748214,esp.1
+ESP-La Liga,2526,2025-10-04 Real Oviedo-Levante,2025-10-04 12:00:00+00:00,Real Oviedo,Levante,748216,esp.1
+ESP-La Liga,2526,2025-10-05 Alavés-Elche,2025-10-05 12:00:00+00:00,Alavés,Elche,748218,esp.1
+ESP-La Liga,2526,2025-10-05 Celta Vigo-Atlético Madrid,2025-10-05 19:00:00+00:00,Celta Vigo,Atlético Madrid,748221,esp.1
+ESP-La Liga,2526,2025-10-05 Espanyol-Real Betis,2025-10-05 16:30:00+00:00,Espanyol,Real Betis,748220,esp.1
+ESP-La Liga,2526,2025-10-05 Real Sociedad-Rayo Vallecano,2025-10-05 16:30:00+00:00,Real Sociedad,Rayo Vallecano,748217,esp.1
+ESP-La Liga,2526,2025-10-05 Sevilla-Barcelona,2025-10-05 14:15:00+00:00,Sevilla,Barcelona,748215,esp.1
+ESP-La Liga,2526,2025-10-17 Real Oviedo-Espanyol,2025-10-17 19:00:00+00:00,Real Oviedo,Espanyol,748229,esp.1
+ESP-La Liga,2526,2025-10-18 Atlético Madrid-Osasuna,2025-10-18 19:00:00+00:00,Atlético Madrid,Osasuna,748224,esp.1
+ESP-La Liga,2526,2025-10-18 Barcelona-Girona,2025-10-18 14:15:00+00:00,Barcelona,Girona,748228,esp.1
+ESP-La Liga,2526,2025-10-18 Sevilla-Mallorca,2025-10-18 12:00:00+00:00,Sevilla,Mallorca,748227,esp.1
+ESP-La Liga,2526,2025-10-18 Villarreal-Real Betis,2025-10-18 16:30:00+00:00,Villarreal,Real Betis,748225,esp.1
+ESP-La Liga,2526,2025-10-19 Celta Vigo-Real Sociedad,2025-10-19 14:15:00+00:00,Celta Vigo,Real Sociedad,748233,esp.1
+ESP-La Liga,2526,2025-10-19 Elche-Athletic Club,2025-10-19 12:00:00+00:00,Elche,Athletic Club,748232,esp.1
+ESP-La Liga,2526,2025-10-19 Getafe-Real Madrid,2025-10-19 19:00:00+00:00,Getafe,Real Madrid,748231,esp.1
+ESP-La Liga,2526,2025-10-19 Levante-Rayo Vallecano,2025-10-19 16:30:00+00:00,Levante,Rayo Vallecano,748230,esp.1
+ESP-La Liga,2526,2025-10-20 Alavés-Valencia,2025-10-20 19:00:00+00:00,Alavés,Valencia,748226,esp.1
+ESP-La Liga,2526,2025-10-24 Real Sociedad-Sevilla,2025-10-24 19:00:00+00:00,Real Sociedad,Sevilla,748234,esp.1
+ESP-La Liga,2526,2025-10-25 Athletic Club-Getafe,2025-10-25 16:30:00+00:00,Athletic Club,Getafe,748242,esp.1
+ESP-La Liga,2526,2025-10-25 Espanyol-Elche,2025-10-25 14:15:00+00:00,Espanyol,Elche,748243,esp.1
+ESP-La Liga,2526,2025-10-25 Girona-Real Oviedo,2025-10-25 12:00:00+00:00,Girona,Real Oviedo,748239,esp.1
+ESP-La Liga,2526,2025-10-25 Valencia-Villarreal,2025-10-25 19:00:00+00:00,Valencia,Villarreal,748235,esp.1
+ESP-La Liga,2526,2025-10-26 Mallorca-Levante,2025-10-26 13:00:00+00:00,Mallorca,Levante,748240,esp.1
+ESP-La Liga,2526,2025-10-26 Osasuna-Celta Vigo,2025-10-26 17:30:00+00:00,Osasuna,Celta Vigo,748241,esp.1
+ESP-La Liga,2526,2025-10-26 Rayo Vallecano-Alavés,2025-10-26 20:00:00+00:00,Rayo Vallecano,Alavés,748238,esp.1
+ESP-La Liga,2526,2025-10-26 Real Madrid-Barcelona,2025-10-26 15:15:00+00:00,Real Madrid,Barcelona,748236,esp.1
+ESP-La Liga,2526,2025-10-27 Real Betis-Atlético Madrid,2025-10-27 20:00:00+00:00,Real Betis,Atlético Madrid,748237,esp.1
+ESP-La Liga,2526,2025-10-31 Getafe-Girona,2025-10-31 20:00:00+00:00,Getafe,Girona,748248,esp.1
+ESP-La Liga,2526,2025-11-01 Atlético Madrid-Sevilla,2025-11-01 15:15:00+00:00,Atlético Madrid,Sevilla,748245,esp.1
+ESP-La Liga,2526,2025-11-01 Real Madrid-Valencia,2025-11-01 20:00:00+00:00,Real Madrid,Valencia,748251,esp.1
+ESP-La Liga,2526,2025-11-01 Real Sociedad-Athletic Club,2025-11-01 17:30:00+00:00,Real Sociedad,Athletic Club,748253,esp.1
+ESP-La Liga,2526,2025-11-01 Villarreal-Rayo Vallecano,2025-11-01 13:00:00+00:00,Villarreal,Rayo Vallecano,748249,esp.1
+ESP-La Liga,2526,2025-11-02 Alavés-Espanyol,2025-11-02 15:15:00+00:00,Alavés,Espanyol,748246,esp.1
+ESP-La Liga,2526,2025-11-02 Barcelona-Elche,2025-11-02 17:30:00+00:00,Barcelona,Elche,748247,esp.1
+ESP-La Liga,2526,2025-11-02 Levante-Celta Vigo,2025-11-02 13:00:00+00:00,Levante,Celta Vigo,748244,esp.1
+ESP-La Liga,2526,2025-11-02 Real Betis-Mallorca,2025-11-02 20:00:00+00:00,Real Betis,Mallorca,748250,esp.1
+ESP-La Liga,2526,2025-11-03 Real Oviedo-Osasuna,2025-11-03 20:00:00+00:00,Real Oviedo,Osasuna,748252,esp.1
+ESP-La Liga,2526,2025-11-07 Elche-Real Sociedad,2025-11-07 20:00:00+00:00,Elche,Real Sociedad,748259,esp.1
+ESP-La Liga,2526,2025-11-08 Atlético Madrid-Levante,2025-11-08 17:30:00+00:00,Atlético Madrid,Levante,748261,esp.1
+ESP-La Liga,2526,2025-11-08 Espanyol-Villarreal,2025-11-08 20:00:00+00:00,Espanyol,Villarreal,748263,esp.1
+ESP-La Liga,2526,2025-11-08 Girona-Alavés,2025-11-08 13:00:00+00:00,Girona,Alavés,748257,esp.1
+ESP-La Liga,2526,2025-11-08 Sevilla-Osasuna,2025-11-08 15:15:00+00:00,Sevilla,Osasuna,748255,esp.1
+ESP-La Liga,2526,2025-11-09 Athletic Club-Real Oviedo,2025-11-09 13:00:00+00:00,Athletic Club,Real Oviedo,748262,esp.1
+ESP-La Liga,2526,2025-11-09 Celta Vigo-Barcelona,2025-11-09 20:00:00+00:00,Celta Vigo,Barcelona,748260,esp.1
+ESP-La Liga,2526,2025-11-09 Mallorca-Getafe,2025-11-09 17:30:00+00:00,Mallorca,Getafe,748256,esp.1
+ESP-La Liga,2526,2025-11-09 Rayo Vallecano-Real Madrid,2025-11-09 15:15:00+00:00,Rayo Vallecano,Real Madrid,748254,esp.1
+ESP-La Liga,2526,2025-11-09 Valencia-Real Betis,2025-11-09 17:30:00+00:00,Valencia,Real Betis,748258,esp.1
+ESP-La Liga,2526,2025-11-21 Valencia-Levante,2025-11-21 20:00:00+00:00,Valencia,Levante,748270,esp.1
+ESP-La Liga,2526,2025-11-22 Alavés-Celta Vigo,2025-11-22 13:00:00+00:00,Alavés,Celta Vigo,748273,esp.1
+ESP-La Liga,2526,2025-11-22 Barcelona-Athletic Club,2025-11-22 15:15:00+00:00,Barcelona,Athletic Club,748272,esp.1
+ESP-La Liga,2526,2025-11-22 Osasuna-Real Sociedad,2025-11-22 17:30:00+00:00,Osasuna,Real Sociedad,748267,esp.1
+ESP-La Liga,2526,2025-11-22 Villarreal-Mallorca,2025-11-22 20:00:00+00:00,Villarreal,Mallorca,748271,esp.1
+ESP-La Liga,2526,2025-11-23 Elche-Real Madrid,2025-11-23 20:00:00+00:00,Elche,Real Madrid,748266,esp.1
+ESP-La Liga,2526,2025-11-23 Getafe-Atlético Madrid,2025-11-23 17:30:00+00:00,Getafe,Atlético Madrid,748264,esp.1
+ESP-La Liga,2526,2025-11-23 Real Betis-Girona,2025-11-23 15:15:00+00:00,Real Betis,Girona,748268,esp.1
+ESP-La Liga,2526,2025-11-23 Real Oviedo-Rayo Vallecano,2025-11-23 13:00:00+00:00,Real Oviedo,Rayo Vallecano,748269,esp.1
+ESP-La Liga,2526,2025-11-24 Espanyol-Sevilla,2025-11-24 20:00:00+00:00,Espanyol,Sevilla,748265,esp.1
+ESP-La Liga,2526,2025-11-28 Getafe-Elche,2025-11-28 20:00:00+00:00,Getafe,Elche,748280,esp.1
+ESP-La Liga,2526,2025-11-29 Atlético Madrid-Real Oviedo,2025-11-29 20:00:00+00:00,Atlético Madrid,Real Oviedo,748275,esp.1
+ESP-La Liga,2526,2025-11-29 Barcelona-Alavés,2025-11-29 15:15:00+00:00,Barcelona,Alavés,748282,esp.1
+ESP-La Liga,2526,2025-11-29 Levante-Athletic Club,2025-11-29 17:30:00+00:00,Levante,Athletic Club,748278,esp.1
+ESP-La Liga,2526,2025-11-29 Mallorca-Osasuna,2025-11-29 13:00:00+00:00,Mallorca,Osasuna,748277,esp.1
+ESP-La Liga,2526,2025-11-30 Celta Vigo-Espanyol,2025-11-30 17:30:00+00:00,Celta Vigo,Espanyol,748281,esp.1
+ESP-La Liga,2526,2025-11-30 Girona-Real Madrid,2025-11-30 20:00:00+00:00,Girona,Real Madrid,748279,esp.1
+ESP-La Liga,2526,2025-11-30 Real Sociedad-Villarreal,2025-11-30 13:00:00+00:00,Real Sociedad,Villarreal,748274,esp.1
+ESP-La Liga,2526,2025-11-30 Sevilla-Real Betis,2025-11-30 15:15:00+00:00,Sevilla,Real Betis,748283,esp.1
+ESP-La Liga,2526,2025-12-01 Rayo Vallecano-Valencia,2025-12-01 20:00:00+00:00,Rayo Vallecano,Valencia,748276,esp.1
+ESP-La Liga,2526,2025-12-02 Barcelona-Atlético Madrid,2025-12-02 20:00:00+00:00,Barcelona,Atlético Madrid,748331,esp.1
+ESP-La Liga,2526,2025-12-03 Athletic Club-Real Madrid,2025-12-03 18:00:00+00:00,Athletic Club,Real Madrid,748332,esp.1
+ESP-La Liga,2526,2025-12-05 Real Oviedo-Mallorca,2025-12-05 20:00:00+00:00,Real Oviedo,Mallorca,748291,esp.1
+ESP-La Liga,2526,2025-12-06 Alavés-Real Sociedad,2025-12-06 15:15:00+00:00,Alavés,Real Sociedad,748287,esp.1
+ESP-La Liga,2526,2025-12-06 Athletic Club-Atlético Madrid,2025-12-06 20:00:00+00:00,Athletic Club,Atlético Madrid,748286,esp.1
+ESP-La Liga,2526,2025-12-06 Real Betis-Barcelona,2025-12-06 17:30:00+00:00,Real Betis,Barcelona,748289,esp.1
+ESP-La Liga,2526,2025-12-06 Villarreal-Getafe,2025-12-06 13:00:00+00:00,Villarreal,Getafe,748288,esp.1
+ESP-La Liga,2526,2025-12-07 Elche-Girona,2025-12-07 13:00:00+00:00,Elche,Girona,748285,esp.1
+ESP-La Liga,2526,2025-12-07 Espanyol-Rayo Vallecano,2025-12-07 17:30:00+00:00,Espanyol,Rayo Vallecano,748284,esp.1
+ESP-La Liga,2526,2025-12-07 Real Madrid-Celta Vigo,2025-12-07 20:00:00+00:00,Real Madrid,Celta Vigo,748290,esp.1
+ESP-La Liga,2526,2025-12-07 Valencia-Sevilla,2025-12-07 15:15:00+00:00,Valencia,Sevilla,748292,esp.1
+ESP-La Liga,2526,2025-12-08 Osasuna-Levante,2025-12-08 20:00:00+00:00,Osasuna,Levante,748293,esp.1
+ESP-La Liga,2526,2025-12-12 Real Sociedad-Girona,2025-12-12 20:00:00+00:00,Real Sociedad,Girona,748294,esp.1
+ESP-La Liga,2526,2025-12-13 Atlético Madrid-Valencia,2025-12-13 13:00:00+00:00,Atlético Madrid,Valencia,748296,esp.1
+ESP-La Liga,2526,2025-12-13 Barcelona-Osasuna,2025-12-13 17:30:00+00:00,Barcelona,Osasuna,748299,esp.1
+ESP-La Liga,2526,2025-12-13 Getafe-Espanyol,2025-12-13 20:00:00+00:00,Getafe,Espanyol,748301,esp.1
+ESP-La Liga,2526,2025-12-13 Mallorca-Elche,2025-12-13 15:15:00+00:00,Mallorca,Elche,748303,esp.1
+ESP-La Liga,2526,2025-12-14 Alavés-Real Madrid,2025-12-14 20:00:00+00:00,Alavés,Real Madrid,748297,esp.1
+ESP-La Liga,2526,2025-12-14 Celta Vigo-Athletic Club,2025-12-14 15:15:00+00:00,Celta Vigo,Athletic Club,748300,esp.1
+ESP-La Liga,2526,2025-12-14 Sevilla-Real Oviedo,2025-12-14 13:00:00+00:00,Sevilla,Real Oviedo,748295,esp.1
+ESP-La Liga,2526,2025-12-15 Rayo Vallecano-Real Betis,2025-12-15 20:00:00+00:00,Rayo Vallecano,Real Betis,748298,esp.1
+ESP-La Liga,2526,2025-12-19 Valencia-Mallorca,2025-12-19 20:00:00+00:00,Valencia,Mallorca,748305,esp.1
+ESP-La Liga,2526,2025-12-20 Levante-Real Sociedad,2025-12-20 15:15:00+00:00,Levante,Real Sociedad,748310,esp.1
+ESP-La Liga,2526,2025-12-20 Osasuna-Alavés,2025-12-20 17:30:00+00:00,Osasuna,Alavés,748311,esp.1
+ESP-La Liga,2526,2025-12-20 Real Madrid-Sevilla,2025-12-20 20:00:00+00:00,Real Madrid,Sevilla,748307,esp.1
+ESP-La Liga,2526,2025-12-20 Real Oviedo-Celta Vigo,2025-12-20 13:00:00+00:00,Real Oviedo,Celta Vigo,748306,esp.1
+ESP-La Liga,2526,2025-12-21 Elche-Rayo Vallecano,2025-12-21 17:30:00+00:00,Elche,Rayo Vallecano,748313,esp.1
+ESP-La Liga,2526,2025-12-21 Girona-Atlético Madrid,2025-12-21 13:00:00+00:00,Girona,Atlético Madrid,748309,esp.1
+ESP-La Liga,2526,2025-12-21 Real Betis-Getafe,2025-12-21 20:00:00+00:00,Real Betis,Getafe,748308,esp.1
+ESP-La Liga,2526,2025-12-21 Villarreal-Barcelona,2025-12-21 15:15:00+00:00,Villarreal,Barcelona,748312,esp.1
+ESP-La Liga,2526,2025-12-22 Athletic Club-Espanyol,2025-12-22 20:00:00+00:00,Athletic Club,Espanyol,748304,esp.1
+ESP-La Liga,2526,2026-01-02 Rayo Vallecano-Getafe,2026-01-02 20:00:00+00:00,Rayo Vallecano,Getafe,748316,esp.1
+ESP-La Liga,2526,2026-01-03 Celta Vigo-Valencia,2026-01-03 13:00:00+00:00,Celta Vigo,Valencia,748321,esp.1
+ESP-La Liga,2526,2026-01-03 Elche-Villarreal,2026-01-03 17:30:00+00:00,Elche,Villarreal,748320,esp.1
+ESP-La Liga,2526,2026-01-03 Espanyol-Barcelona,2026-01-03 20:00:00+00:00,Espanyol,Barcelona,748319,esp.1
+ESP-La Liga,2526,2026-01-03 Osasuna-Athletic Club,2026-01-03 15:15:00+00:00,Osasuna,Athletic Club,748317,esp.1
+ESP-La Liga,2526,2026-01-04 Alavés-Real Oviedo,2026-01-04 17:30:00+00:00,Alavés,Real Oviedo,748322,esp.1
+ESP-La Liga,2526,2026-01-04 Mallorca-Girona,2026-01-04 17:30:00+00:00,Mallorca,Girona,748318,esp.1
+ESP-La Liga,2526,2026-01-04 Real Madrid-Real Betis,2026-01-04 15:15:00+00:00,Real Madrid,Real Betis,748315,esp.1
+ESP-La Liga,2526,2026-01-04 Real Sociedad-Atlético Madrid,2026-01-04 20:00:00+00:00,Real Sociedad,Atlético Madrid,748314,esp.1
+ESP-La Liga,2526,2026-01-04 Sevilla-Levante,2026-01-04 13:00:00+00:00,Sevilla,Levante,748323,esp.1
+ESP-La Liga,2526,2026-01-09 Getafe-Real Sociedad,2026-01-09 20:00:00+00:00,Getafe,Real Sociedad,748330,esp.1
+ESP-La Liga,2526,2026-01-10 Girona-Osasuna,2026-01-10 17:30:00+00:00,Girona,Osasuna,748329,esp.1
+ESP-La Liga,2526,2026-01-10 Real Oviedo-Real Betis,2026-01-10 13:00:00+00:00,Real Oviedo,Real Betis,748326,esp.1
+ESP-La Liga,2526,2026-01-10 Valencia-Elche,2026-01-10 20:00:00+00:00,Valencia,Elche,748324,esp.1
+ESP-La Liga,2526,2026-01-10 Villarreal-Alavés,2026-01-10 15:15:00+00:00,Villarreal,Alavés,748333,esp.1
+ESP-La Liga,2526,2026-01-11 Levante-Espanyol,2026-01-11 15:15:00+00:00,Levante,Espanyol,748328,esp.1
+ESP-La Liga,2526,2026-01-11 Rayo Vallecano-Mallorca,2026-01-11 13:00:00+00:00,Rayo Vallecano,Mallorca,748327,esp.1
+ESP-La Liga,2526,2026-01-12 Sevilla-Celta Vigo,2026-01-12 20:00:00+00:00,Sevilla,Celta Vigo,748325,esp.1
+ESP-La Liga,2526,2026-01-16 Espanyol-Girona,2026-01-16 20:00:00+00:00,Espanyol,Girona,748337,esp.1
+ESP-La Liga,2526,2026-01-17 Mallorca-Athletic Club,2026-01-17 15:15:00+00:00,Mallorca,Athletic Club,748339,esp.1
+ESP-La Liga,2526,2026-01-17 Osasuna-Real Oviedo,2026-01-17 17:30:00+00:00,Osasuna,Real Oviedo,748340,esp.1
+ESP-La Liga,2526,2026-01-17 Real Betis-Villarreal,2026-01-17 20:00:00+00:00,Real Betis,Villarreal,748341,esp.1
+ESP-La Liga,2526,2026-01-17 Real Madrid-Levante,2026-01-17 13:00:00+00:00,Real Madrid,Levante,748342,esp.1
+ESP-La Liga,2526,2026-01-18 Atlético Madrid-Alavés,2026-01-18 15:15:00+00:00,Atlético Madrid,Alavés,748334,esp.1
+ESP-La Liga,2526,2026-01-18 Celta Vigo-Rayo Vallecano,2026-01-18 17:30:00+00:00,Celta Vigo,Rayo Vallecano,748335,esp.1
+ESP-La Liga,2526,2026-01-18 Getafe-Valencia,2026-01-18 13:00:00+00:00,Getafe,Valencia,748338,esp.1
+ESP-La Liga,2526,2026-01-18 Real Sociedad-Barcelona,2026-01-18 20:00:00+00:00,Real Sociedad,Barcelona,748343,esp.1
+ESP-La Liga,2526,2026-01-19 Elche-Sevilla,2026-01-19 20:00:00+00:00,Elche,Sevilla,748336,esp.1
+ESP-La Liga,2526,2026-01-23 Levante-Elche,2026-01-23 20:00:00+00:00,Levante,Elche,748353,esp.1
+ESP-La Liga,2526,2026-01-24 Rayo Vallecano-Osasuna,2026-01-24 13:00:00+00:00,Rayo Vallecano,Osasuna,748348,esp.1
+ESP-La Liga,2526,2026-01-24 Sevilla-Athletic Club,2026-01-24 17:30:00+00:00,Sevilla,Athletic Club,748351,esp.1
+ESP-La Liga,2526,2026-01-24 Valencia-Espanyol,2026-01-24 15:15:00+00:00,Valencia,Espanyol,748352,esp.1
+ESP-La Liga,2526,2026-01-24 Villarreal-Real Madrid,2026-01-24 20:00:00+00:00,Villarreal,Real Madrid,748349,esp.1
+ESP-La Liga,2526,2026-01-25 Alavés-Real Betis,2026-01-25 20:00:00+00:00,Alavés,Real Betis,748344,esp.1
+ESP-La Liga,2526,2026-01-25 Atlético Madrid-Mallorca,2026-01-25 13:00:00+00:00,Atlético Madrid,Mallorca,748345,esp.1
+ESP-La Liga,2526,2026-01-25 Barcelona-Real Oviedo,2026-01-25 15:15:00+00:00,Barcelona,Real Oviedo,748346,esp.1
+ESP-La Liga,2526,2026-01-25 Real Sociedad-Celta Vigo,2026-01-25 17:30:00+00:00,Real Sociedad,Celta Vigo,748350,esp.1
+ESP-La Liga,2526,2026-01-26 Girona-Getafe,2026-01-26 20:00:00+00:00,Girona,Getafe,748347,esp.1
+ESP-La Liga,2526,2026-01-30 Espanyol-Alavés,2026-01-30 20:00:00+00:00,Espanyol,Alavés,748355,esp.1
+ESP-La Liga,2526,2026-01-31 Elche-Barcelona,2026-01-31 20:00:00+00:00,Elche,Barcelona,748354,esp.1
+ESP-La Liga,2526,2026-01-31 Levante-Atlético Madrid,2026-01-31 17:30:00+00:00,Levante,Atlético Madrid,748357,esp.1
+ESP-La Liga,2526,2026-01-31 Osasuna-Villarreal,2026-01-31 15:15:00+00:00,Osasuna,Villarreal,748359,esp.1
+ESP-La Liga,2526,2026-01-31 Real Oviedo-Girona,2026-01-31 13:00:00+00:00,Real Oviedo,Girona,748362,esp.1
+ESP-La Liga,2526,2026-02-01 Athletic Club-Real Sociedad,2026-02-01 20:00:00+00:00,Athletic Club,Real Sociedad,748358,esp.1
+ESP-La Liga,2526,2026-02-01 Getafe-Celta Vigo,2026-02-01 17:30:00+00:00,Getafe,Celta Vigo,748361,esp.1
+ESP-La Liga,2526,2026-02-01 Real Betis-Valencia,2026-02-01 15:15:00+00:00,Real Betis,Valencia,748360,esp.1
+ESP-La Liga,2526,2026-02-01 Real Madrid-Rayo Vallecano,2026-02-01 13:00:00+00:00,Real Madrid,Rayo Vallecano,748356,esp.1
+ESP-La Liga,2526,2026-02-02 Mallorca-Sevilla,2026-02-02 20:00:00+00:00,Mallorca,Sevilla,748363,esp.1
+ESP-La Liga,2526,2026-02-06 Celta Vigo-Osasuna,2026-02-06 20:00:00+00:00,Celta Vigo,Osasuna,748371,esp.1
+ESP-La Liga,2526,2026-02-07 Barcelona-Mallorca,2026-02-07 15:15:00+00:00,Barcelona,Mallorca,748370,esp.1
+ESP-La Liga,2526,2026-02-07 Real Sociedad-Elche,2026-02-07 20:00:00+00:00,Real Sociedad,Elche,748366,esp.1
+ESP-La Liga,2526,2026-02-08 Alavés-Getafe,2026-02-08 13:00:00+00:00,Alavés,Getafe,748367,esp.1
+ESP-La Liga,2526,2026-02-08 Athletic Club-Levante,2026-02-08 15:15:00+00:00,Athletic Club,Levante,748373,esp.1
+ESP-La Liga,2526,2026-02-08 Atlético Madrid-Real Betis,2026-02-08 17:30:00+00:00,Atlético Madrid,Real Betis,748369,esp.1
+ESP-La Liga,2526,2026-02-08 Sevilla-Girona,2026-02-08 15:15:00+00:00,Sevilla,Girona,748365,esp.1
+ESP-La Liga,2526,2026-02-08 Valencia-Real Madrid,2026-02-08 20:00:00+00:00,Valencia,Real Madrid,748364,esp.1
+ESP-La Liga,2526,2026-02-09 Villarreal-Espanyol,2026-02-09 20:00:00+00:00,Villarreal,Espanyol,748368,esp.1
+ESP-La Liga,2526,2026-02-13 Elche-Osasuna,2026-02-13 20:00:00+00:00,Elche,Osasuna,748376,esp.1
+ESP-La Liga,2526,2026-02-14 Espanyol-Celta Vigo,2026-02-14 13:00:00+00:00,Espanyol,Celta Vigo,748377,esp.1
+ESP-La Liga,2526,2026-02-14 Getafe-Villarreal,2026-02-14 15:15:00+00:00,Getafe,Villarreal,748378,esp.1
+ESP-La Liga,2526,2026-02-14 Real Madrid-Real Sociedad,2026-02-14 20:00:00+00:00,Real Madrid,Real Sociedad,748383,esp.1
+ESP-La Liga,2526,2026-02-14 Sevilla-Alavés,2026-02-14 17:30:00+00:00,Sevilla,Alavés,748374,esp.1
+ESP-La Liga,2526,2026-02-15 Levante-Valencia,2026-02-15 17:30:00+00:00,Levante,Valencia,748380,esp.1
+ESP-La Liga,2526,2026-02-15 Mallorca-Real Betis,2026-02-15 20:00:00+00:00,Mallorca,Real Betis,748379,esp.1
+ESP-La Liga,2526,2026-02-15 Rayo Vallecano-Atlético Madrid,2026-02-15 15:15:00+00:00,Rayo Vallecano,Atlético Madrid,748382,esp.1
+ESP-La Liga,2526,2026-02-15 Real Oviedo-Athletic Club,2026-02-15 13:00:00+00:00,Real Oviedo,Athletic Club,748375,esp.1
+ESP-La Liga,2526,2026-02-16 Girona-Barcelona,2026-02-16 20:00:00+00:00,Girona,Barcelona,748381,esp.1
+ESP-La Liga,2526,2026-02-18 Levante-Villarreal,2026-02-18 19:00:00+00:00,Levante,Villarreal,748302,esp.1
+ESP-La Liga,2526,2026-02-20 Athletic Club-Elche,2026-02-20 20:00:00+00:00,Athletic Club,Elche,748388,esp.1
+ESP-La Liga,2526,2026-02-21 Atlético Madrid-Espanyol,2026-02-21 20:00:00+00:00,Atlético Madrid,Espanyol,748390,esp.1
+ESP-La Liga,2526,2026-02-21 Osasuna-Real Madrid,2026-02-21 17:30:00+00:00,Osasuna,Real Madrid,748387,esp.1
+ESP-La Liga,2526,2026-02-21 Real Betis-Rayo Vallecano,2026-02-21 15:15:00+00:00,Real Betis,Rayo Vallecano,748386,esp.1
+ESP-La Liga,2526,2026-02-21 Real Sociedad-Real Oviedo,2026-02-21 13:00:00+00:00,Real Sociedad,Real Oviedo,748385,esp.1
+ESP-La Liga,2526,2026-02-22 Barcelona-Levante,2026-02-22 15:15:00+00:00,Barcelona,Levante,748391,esp.1
+ESP-La Liga,2526,2026-02-22 Celta Vigo-Mallorca,2026-02-22 17:30:00+00:00,Celta Vigo,Mallorca,748392,esp.1
+ESP-La Liga,2526,2026-02-22 Getafe-Sevilla,2026-02-22 13:00:00+00:00,Getafe,Sevilla,748384,esp.1
+ESP-La Liga,2526,2026-02-22 Villarreal-Valencia,2026-02-22 20:00:00+00:00,Villarreal,Valencia,748389,esp.1
+ESP-La Liga,2526,2026-02-23 Alavés-Girona,2026-02-23 20:00:00+00:00,Alavés,Girona,748393,esp.1
+ESP-La Liga,2526,2026-02-27 Levante-Alavés,2026-02-27 20:00:00+00:00,Levante,Alavés,748399,esp.1
+ESP-La Liga,2526,2026-02-28 Barcelona-Villarreal,2026-02-28 15:15:00+00:00,Barcelona,Villarreal,748402,esp.1
+ESP-La Liga,2526,2026-02-28 Mallorca-Real Sociedad,2026-02-28 17:30:00+00:00,Mallorca,Real Sociedad,748403,esp.1
+ESP-La Liga,2526,2026-02-28 Rayo Vallecano-Athletic Club,2026-02-28 13:00:00+00:00,Rayo Vallecano,Athletic Club,748397,esp.1
+ESP-La Liga,2526,2026-02-28 Real Oviedo-Atlético Madrid,2026-02-28 20:00:00+00:00,Real Oviedo,Atlético Madrid,748394,esp.1
+ESP-La Liga,2526,2026-03-01 Elche-Espanyol,2026-03-01 13:00:00+00:00,Elche,Espanyol,748401,esp.1
+ESP-La Liga,2526,2026-03-01 Girona-Celta Vigo,2026-03-01 20:00:00+00:00,Girona,Celta Vigo,748400,esp.1
+ESP-La Liga,2526,2026-03-01 Real Betis-Sevilla,2026-03-01 17:30:00+00:00,Real Betis,Sevilla,748396,esp.1
+ESP-La Liga,2526,2026-03-01 Valencia-Osasuna,2026-03-01 15:15:00+00:00,Valencia,Osasuna,748398,esp.1
+ESP-La Liga,2526,2026-03-02 Real Madrid-Getafe,2026-03-02 20:00:00+00:00,Real Madrid,Getafe,748395,esp.1
+ESP-La Liga,2526,2026-03-04 Rayo Vallecano-Real Oviedo,2026-03-04 18:00:00+00:00,Rayo Vallecano,Real Oviedo,748372,esp.1
+ESP-La Liga,2526,2026-03-06 Celta Vigo-Real Madrid,2026-03-06 20:00:00+00:00,Celta Vigo,Real Madrid,748411,esp.1
+ESP-La Liga,2526,2026-03-07 Athletic Club-Barcelona,2026-03-07 20:00:00+00:00,Athletic Club,Barcelona,748409,esp.1
+ESP-La Liga,2526,2026-03-07 Atlético Madrid-Real Sociedad,2026-03-07 17:30:00+00:00,Atlético Madrid,Real Sociedad,748410,esp.1
+ESP-La Liga,2526,2026-03-07 Levante-Girona,2026-03-07 15:15:00+00:00,Levante,Girona,748407,esp.1
+ESP-La Liga,2526,2026-03-07 Osasuna-Mallorca,2026-03-07 13:00:00+00:00,Osasuna,Mallorca,748406,esp.1
+ESP-La Liga,2526,2026-03-08 Getafe-Real Betis,2026-03-08 15:15:00+00:00,Getafe,Real Betis,748413,esp.1
+ESP-La Liga,2526,2026-03-08 Sevilla-Rayo Vallecano,2026-03-08 17:30:00+00:00,Sevilla,Rayo Vallecano,748405,esp.1
+ESP-La Liga,2526,2026-03-08 Valencia-Alavés,2026-03-08 20:00:00+00:00,Valencia,Alavés,748404,esp.1
+ESP-La Liga,2526,2026-03-08 Villarreal-Elche,2026-03-08 13:00:00+00:00,Villarreal,Elche,748408,esp.1
+ESP-La Liga,2526,2026-03-09 Espanyol-Real Oviedo,2026-03-09 20:00:00+00:00,Espanyol,Real Oviedo,748412,esp.1
+ESP-La Liga,2526,2026-03-13 Alavés-Villarreal,2026-03-13 20:00:00+00:00,Alavés,Villarreal,748422,esp.1
+ESP-La Liga,2526,2026-03-14 Atlético Madrid-Getafe,2026-03-14 15:15:00+00:00,Atlético Madrid,Getafe,748423,esp.1
+ESP-La Liga,2526,2026-03-14 Girona-Athletic Club,2026-03-14 13:00:00+00:00,Girona,Athletic Club,748414,esp.1
+ESP-La Liga,2526,2026-03-14 Real Madrid-Elche,2026-03-14 20:00:00+00:00,Real Madrid,Elche,748418,esp.1
+ESP-La Liga,2526,2026-03-14 Real Oviedo-Valencia,2026-03-14 17:30:00+00:00,Real Oviedo,Valencia,748419,esp.1
+ESP-La Liga,2526,2026-03-15 Barcelona-Sevilla,2026-03-15 15:15:00+00:00,Barcelona,Sevilla,748415,esp.1
+ESP-La Liga,2526,2026-03-15 Mallorca-Espanyol,2026-03-15 13:00:00+00:00,Mallorca,Espanyol,748421,esp.1
+ESP-La Liga,2526,2026-03-15 Real Betis-Celta Vigo,2026-03-15 17:30:00+00:00,Real Betis,Celta Vigo,748417,esp.1
+ESP-La Liga,2526,2026-03-15 Real Sociedad-Osasuna,2026-03-15 20:00:00+00:00,Real Sociedad,Osasuna,748420,esp.1
+ESP-La Liga,2526,2026-03-16 Rayo Vallecano-Levante,2026-03-16 20:00:00+00:00,Rayo Vallecano,Levante,748416,esp.1
+ESP-La Liga,2526,2026-03-20 Villarreal-Real Sociedad,2026-03-20 20:00:00+00:00,Villarreal,Real Sociedad,748429,esp.1
+ESP-La Liga,2526,2026-03-21 Elche-Mallorca,2026-03-21 13:00:00+00:00,Elche,Mallorca,748430,esp.1
+ESP-La Liga,2526,2026-03-21 Espanyol-Getafe,2026-03-21 15:15:00+00:00,Espanyol,Getafe,748425,esp.1
+ESP-La Liga,2526,2026-03-21 Levante-Real Oviedo,2026-03-21 17:30:00+00:00,Levante,Real Oviedo,748426,esp.1
+ESP-La Liga,2526,2026-03-21 Osasuna-Girona,2026-03-21 17:30:00+00:00,Osasuna,Girona,748427,esp.1
+ESP-La Liga,2526,2026-03-21 Sevilla-Valencia,2026-03-21 20:00:00+00:00,Sevilla,Valencia,748428,esp.1
+ESP-La Liga,2526,2026-03-22 Athletic Club-Real Betis,2026-03-22 17:30:00+00:00,Athletic Club,Real Betis,748424,esp.1
+ESP-La Liga,2526,2026-03-22 Barcelona-Rayo Vallecano,2026-03-22 13:00:00+00:00,Barcelona,Rayo Vallecano,748432,esp.1
+ESP-La Liga,2526,2026-03-22 Celta Vigo-Alavés,2026-03-22 15:15:00+00:00,Celta Vigo,Alavés,748431,esp.1
+ESP-La Liga,2526,2026-03-22 Real Madrid-Atlético Madrid,2026-03-22 20:00:00+00:00,Real Madrid,Atlético Madrid,748433,esp.1
+ESP-La Liga,2526,2026-04-03 Rayo Vallecano-Elche,2026-04-03 19:00:00+00:00,Rayo Vallecano,Elche,748443,esp.1
+ESP-La Liga,2526,2026-04-04 Atlético Madrid-Barcelona,2026-04-04 19:00:00+00:00,Atlético Madrid,Barcelona,748434,esp.1
+ESP-La Liga,2526,2026-04-04 Mallorca-Real Madrid,2026-04-04 14:15:00+00:00,Mallorca,Real Madrid,748437,esp.1
+ESP-La Liga,2526,2026-04-04 Real Betis-Espanyol,2026-04-04 16:30:00+00:00,Real Betis,Espanyol,748439,esp.1
+ESP-La Liga,2526,2026-04-04 Real Sociedad-Levante,2026-04-04 12:00:00+00:00,Real Sociedad,Levante,748442,esp.1
+ESP-La Liga,2526,2026-04-05 Alavés-Osasuna,2026-04-05 19:00:00+00:00,Alavés,Osasuna,748438,esp.1
+ESP-La Liga,2526,2026-04-05 Getafe-Athletic Club,2026-04-05 12:00:00+00:00,Getafe,Athletic Club,748435,esp.1
+ESP-La Liga,2526,2026-04-05 Real Oviedo-Sevilla,2026-04-05 16:30:00+00:00,Real Oviedo,Sevilla,748441,esp.1
+ESP-La Liga,2526,2026-04-05 Valencia-Celta Vigo,2026-04-05 14:15:00+00:00,Valencia,Celta Vigo,748440,esp.1
+ESP-La Liga,2526,2026-04-06 Girona-Villarreal,2026-04-06 19:00:00+00:00,Girona,Villarreal,748436,esp.1
+ESP-La Liga,2526,2026-04-10 Real Madrid-Girona,2026-04-10 19:00:00+00:00,Real Madrid,Girona,748453,esp.1
+ESP-La Liga,2526,2026-04-11 Barcelona-Espanyol,2026-04-11 16:30:00+00:00,Barcelona,Espanyol,748449,esp.1
+ESP-La Liga,2526,2026-04-11 Elche-Valencia,2026-04-11 14:15:00+00:00,Elche,Valencia,748447,esp.1
+ESP-La Liga,2526,2026-04-11 Real Sociedad-Alavés,2026-04-11 12:00:00+00:00,Real Sociedad,Alavés,748452,esp.1
+ESP-La Liga,2526,2026-04-11 Sevilla-Atlético Madrid,2026-04-11 19:00:00+00:00,Sevilla,Atlético Madrid,748450,esp.1
+ESP-La Liga,2526,2026-04-12 Athletic Club-Villarreal,2026-04-12 19:00:00+00:00,Athletic Club,Villarreal,748451,esp.1
+ESP-La Liga,2526,2026-04-12 Celta Vigo-Real Oviedo,2026-04-12 16:30:00+00:00,Celta Vigo,Real Oviedo,748448,esp.1
+ESP-La Liga,2526,2026-04-12 Mallorca-Rayo Vallecano,2026-04-12 14:15:00+00:00,Mallorca,Rayo Vallecano,748445,esp.1
+ESP-La Liga,2526,2026-04-12 Osasuna-Real Betis,2026-04-12 12:00:00+00:00,Osasuna,Real Betis,748444,esp.1
+ESP-La Liga,2526,2026-04-13 Levante-Getafe,2026-04-13 19:00:00+00:00,Levante,Getafe,748446,esp.1
+ESP-La Liga,2526,2026-04-21 Athletic Club-Osasuna,2026-04-21 17:00:00+00:00,Athletic Club,Osasuna,748469,esp.1
+ESP-La Liga,2526,2026-04-21 Girona-Real Betis,2026-04-21 19:30:00+00:00,Girona,Real Betis,748467,esp.1
+ESP-La Liga,2526,2026-04-21 Mallorca-Valencia,2026-04-21 17:00:00+00:00,Mallorca,Valencia,748468,esp.1
+ESP-La Liga,2526,2026-04-21 Real Madrid-Alavés,2026-04-21 19:30:00+00:00,Real Madrid,Alavés,748471,esp.1
+ESP-La Liga,2526,2026-04-22 Barcelona-Celta Vigo,2026-04-22 19:30:00+00:00,Barcelona,Celta Vigo,748465,esp.1
+ESP-La Liga,2526,2026-04-22 Elche-Atlético Madrid,2026-04-22 17:00:00+00:00,Elche,Atlético Madrid,748466,esp.1
+ESP-La Liga,2526,2026-04-22 Real Sociedad-Getafe,2026-04-22 18:00:00+00:00,Real Sociedad,Getafe,748472,esp.1
+ESP-La Liga,2526,2026-04-23 Levante-Sevilla,2026-04-23 17:00:00+00:00,Levante,Sevilla,748473,esp.1
+ESP-La Liga,2526,2026-04-23 Rayo Vallecano-Espanyol,2026-04-23 18:00:00+00:00,Rayo Vallecano,Espanyol,748470,esp.1
+ESP-La Liga,2526,2026-04-23 Real Oviedo-Villarreal,2026-04-23 19:30:00+00:00,Real Oviedo,Villarreal,748464,esp.1
+ESP-La Liga,2526,2026-04-24 Real Betis-Real Madrid,2026-04-24 19:00:00+00:00,Real Betis,Real Madrid,748457,esp.1
+ESP-La Liga,2526,2026-04-25 Alavés-Mallorca,2026-04-25 12:00:00+00:00,Alavés,Mallorca,748455,esp.1
+ESP-La Liga,2526,2026-04-25 Atlético Madrid-Athletic Club,2026-04-25 19:00:00+00:00,Atlético Madrid,Athletic Club,748462,esp.1
+ESP-La Liga,2526,2026-04-25 Getafe-Barcelona,2026-04-25 14:15:00+00:00,Getafe,Barcelona,748460,esp.1
+ESP-La Liga,2526,2026-04-25 Valencia-Girona,2026-04-25 16:30:00+00:00,Valencia,Girona,748454,esp.1
+ESP-La Liga,2526,2026-04-26 Osasuna-Sevilla,2026-04-26 16:30:00+00:00,Osasuna,Sevilla,748459,esp.1
+ESP-La Liga,2526,2026-04-26 Rayo Vallecano-Real Sociedad,2026-04-26 12:00:00+00:00,Rayo Vallecano,Real Sociedad,748458,esp.1
+ESP-La Liga,2526,2026-04-26 Real Oviedo-Elche,2026-04-26 14:15:00+00:00,Real Oviedo,Elche,748456,esp.1
+ESP-La Liga,2526,2026-04-26 Villarreal-Celta Vigo,2026-04-26 19:00:00+00:00,Villarreal,Celta Vigo,748463,esp.1
+ESP-La Liga,2526,2026-04-27 Espanyol-Levante,2026-04-27 19:00:00+00:00,Espanyol,Levante,748461,esp.1
+ESP-La Liga,2526,2026-05-01 Girona-Mallorca,2026-05-01 19:00:00+00:00,Girona,Mallorca,748476,esp.1
+ESP-La Liga,2526,2026-05-02 Alavés-Athletic Club,2026-05-02 16:30:00+00:00,Alavés,Athletic Club,748482,esp.1
+ESP-La Liga,2526,2026-05-02 Osasuna-Barcelona,2026-05-02 19:00:00+00:00,Osasuna,Barcelona,748480,esp.1
+ESP-La Liga,2526,2026-05-02 Valencia-Atlético Madrid,2026-05-02 14:15:00+00:00,Valencia,Atlético Madrid,748481,esp.1
+ESP-La Liga,2526,2026-05-02 Villarreal-Levante,2026-05-02 12:00:00+00:00,Villarreal,Levante,748477,esp.1
+ESP-La Liga,2526,2026-05-03 Celta Vigo-Elche,2026-05-03 12:00:00+00:00,Celta Vigo,Elche,748483,esp.1
+ESP-La Liga,2526,2026-05-03 Espanyol-Real Madrid,2026-05-03 19:00:00+00:00,Espanyol,Real Madrid,748475,esp.1
+ESP-La Liga,2526,2026-05-03 Getafe-Rayo Vallecano,2026-05-03 14:15:00+00:00,Getafe,Rayo Vallecano,748474,esp.1
+ESP-La Liga,2526,2026-05-03 Real Betis-Real Oviedo,2026-05-03 16:30:00+00:00,Real Betis,Real Oviedo,748479,esp.1
+ESP-La Liga,2526,2026-05-04 Sevilla-Real Sociedad,2026-05-04 19:00:00+00:00,Sevilla,Real Sociedad,748478,esp.1
+ESP-La Liga,2526,2026-05-08 Levante-Osasuna,2026-05-08 19:00:00+00:00,Levante,Osasuna,748491,esp.1
+ESP-La Liga,2526,2026-05-09 Atlético Madrid-Celta Vigo,2026-05-09 16:30:00+00:00,Atlético Madrid,Celta Vigo,748487,esp.1
+ESP-La Liga,2526,2026-05-09 Elche-Alavés,2026-05-09 12:00:00+00:00,Elche,Alavés,748492,esp.1
+ESP-La Liga,2526,2026-05-09 Real Sociedad-Real Betis,2026-05-09 19:00:00+00:00,Real Sociedad,Real Betis,748485,esp.1
+ESP-La Liga,2526,2026-05-09 Sevilla-Espanyol,2026-05-09 14:15:00+00:00,Sevilla,Espanyol,748486,esp.1
+ESP-La Liga,2526,2026-05-10 Athletic Club-Valencia,2026-05-10 14:15:00+00:00,Athletic Club,Valencia,748488,esp.1
+ESP-La Liga,2526,2026-05-10 Barcelona-Real Madrid,2026-05-10 19:00:00+00:00,Barcelona,Real Madrid,748484,esp.1
+ESP-La Liga,2526,2026-05-10 Mallorca-Villarreal,2026-05-10 12:00:00+00:00,Mallorca,Villarreal,748490,esp.1
+ESP-La Liga,2526,2026-05-10 Real Oviedo-Getafe,2026-05-10 16:30:00+00:00,Real Oviedo,Getafe,748493,esp.1
+ESP-La Liga,2526,2026-05-11 Rayo Vallecano-Girona,2026-05-11 19:00:00+00:00,Rayo Vallecano,Girona,748489,esp.1
+ESP-La Liga,2526,2026-05-12 Celta Vigo-Levante,2026-05-12 17:00:00+00:00,Celta Vigo,Levante,748500,esp.1
+ESP-La Liga,2526,2026-05-12 Osasuna-Atlético Madrid,2026-05-12 19:30:00+00:00,Osasuna,Atlético Madrid,748494,esp.1
+ESP-La Liga,2526,2026-05-12 Real Betis-Elche,2026-05-12 18:00:00+00:00,Real Betis,Elche,748499,esp.1
+ESP-La Liga,2526,2026-05-13 Alavés-Barcelona,2026-05-13 19:30:00+00:00,Alavés,Barcelona,748498,esp.1
+ESP-La Liga,2526,2026-05-13 Espanyol-Athletic Club,2026-05-13 17:00:00+00:00,Espanyol,Athletic Club,748497,esp.1
+ESP-La Liga,2526,2026-05-13 Getafe-Mallorca,2026-05-13 19:30:00+00:00,Getafe,Mallorca,748496,esp.1
+ESP-La Liga,2526,2026-05-13 Villarreal-Sevilla,2026-05-13 17:00:00+00:00,Villarreal,Sevilla,748501,esp.1
+ESP-La Liga,2526,2026-05-14 Girona-Real Sociedad,2026-05-14 18:00:00+00:00,Girona,Real Sociedad,748495,esp.1
+ESP-La Liga,2526,2026-05-14 Real Madrid-Real Oviedo,2026-05-14 19:30:00+00:00,Real Madrid,Real Oviedo,748503,esp.1
+ESP-La Liga,2526,2026-05-14 Valencia-Rayo Vallecano,2026-05-14 17:00:00+00:00,Valencia,Rayo Vallecano,748502,esp.1
+ESP-La Liga,2526,2026-05-17 Athletic Club-Celta Vigo,2026-05-17 17:00:00+00:00,Athletic Club,Celta Vigo,748506,esp.1
+ESP-La Liga,2526,2026-05-17 Atlético Madrid-Girona,2026-05-17 17:00:00+00:00,Atlético Madrid,Girona,748509,esp.1
+ESP-La Liga,2526,2026-05-17 Barcelona-Real Betis,2026-05-17 19:15:00+00:00,Barcelona,Real Betis,748508,esp.1
+ESP-La Liga,2526,2026-05-17 Elche-Getafe,2026-05-17 17:00:00+00:00,Elche,Getafe,748507,esp.1
+ESP-La Liga,2526,2026-05-17 Levante-Mallorca,2026-05-17 17:00:00+00:00,Levante,Mallorca,748510,esp.1
+ESP-La Liga,2526,2026-05-17 Osasuna-Espanyol,2026-05-17 17:00:00+00:00,Osasuna,Espanyol,748511,esp.1
+ESP-La Liga,2526,2026-05-17 Rayo Vallecano-Villarreal,2026-05-17 17:00:00+00:00,Rayo Vallecano,Villarreal,748512,esp.1
+ESP-La Liga,2526,2026-05-17 Real Oviedo-Alavés,2026-05-17 17:00:00+00:00,Real Oviedo,Alavés,748513,esp.1
+ESP-La Liga,2526,2026-05-17 Real Sociedad-Valencia,2026-05-17 17:00:00+00:00,Real Sociedad,Valencia,748505,esp.1
+ESP-La Liga,2526,2026-05-17 Sevilla-Real Madrid,2026-05-17 17:00:00+00:00,Sevilla,Real Madrid,748504,esp.1
+ESP-La Liga,2526,2026-05-23 Alavés-Rayo Vallecano,2026-05-23 19:00:00+00:00,Alavés,Rayo Vallecano,748523,esp.1
+ESP-La Liga,2526,2026-05-23 Celta Vigo-Sevilla,2026-05-23 19:00:00+00:00,Celta Vigo,Sevilla,748517,esp.1
+ESP-La Liga,2526,2026-05-23 Espanyol-Real Sociedad,2026-05-23 19:00:00+00:00,Espanyol,Real Sociedad,748516,esp.1
+ESP-La Liga,2526,2026-05-23 Getafe-Osasuna,2026-05-23 19:00:00+00:00,Getafe,Osasuna,748518,esp.1
+ESP-La Liga,2526,2026-05-23 Girona-Elche,2026-05-23 19:00:00+00:00,Girona,Elche,748520,esp.1
+ESP-La Liga,2526,2026-05-23 Mallorca-Real Oviedo,2026-05-23 19:00:00+00:00,Mallorca,Real Oviedo,748521,esp.1
+ESP-La Liga,2526,2026-05-23 Real Betis-Levante,2026-05-23 19:00:00+00:00,Real Betis,Levante,748522,esp.1
+ESP-La Liga,2526,2026-05-23 Real Madrid-Athletic Club,2026-05-23 19:00:00+00:00,Real Madrid,Athletic Club,748514,esp.1
+ESP-La Liga,2526,2026-05-23 Valencia-Barcelona,2026-05-23 19:00:00+00:00,Valencia,Barcelona,748519,esp.1
+ESP-La Liga,2526,2026-05-24 Villarreal-Atlético Madrid,2026-05-24 19:00:00+00:00,Villarreal,Atlético Madrid,748515,esp.1

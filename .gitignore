@@ -21,18 +21,17 @@ env/
 .ipynb_checkpoints/
 *.ipynb_meta
 
-# Data — versionamos solo muestras pequeñas en data/samples/
+# Data
+# Versionamos data/processed/ a propósito: el equipo de documentación
+# no tiene API de Claude para regenerar la eval, y los notebooks
+# necesitan estos CSVs para correr.
 data/raw/
-data/processed/
-data/*.csv
-data/*.parquet
-data/*.json
-!data/samples/
 
-# Outputs de evaluación
+# Outputs de evaluación: versionamos las corridas full (resultados de
+# Claude); ignoramos los smoke (pruebas) y los JSON intermedios.
 evals/runs/
+evals/results/*_smoke_*.csv
 evals/results/*.json
-evals/results/*.csv
 
 # OS / editores
 .DS_Store
